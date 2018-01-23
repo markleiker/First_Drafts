@@ -1,2 +1,2 @@
 # First_Drafts
-Very first work so strictly a playgrond...
+Very first work so just some practice website code.
