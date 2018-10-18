@@ -1,4 +1,9 @@
-.nav {
+#container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav {
     border: solid;
     border-width: 2px;
     border-color: black;
@@ -16,14 +21,20 @@ h1 {
     border-width: 2px;
     border-color: black;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #body {
     background-image: url(media/background_2.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 #header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
